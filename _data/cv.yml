@@ -17,7 +17,7 @@
       description:
         - GPA 4.0
         - Dean's List in my faculty
-        - Excelence Scholarship through the peruvian government for my undergraduate studies
+        - Excellence Scholarship through the peruvian government for my undergraduate studies
         - 146th Anniversary University Recognition for Winning International Competitions in Data
 
 - title: Research and Teaching Experience
@@ -30,20 +30,17 @@
         - Contributing to create an agent from scratch to help utilities companies in their Energy Transition.
         - We are backed by MIT Sloan Sustainable Initiative.
         - So happy to be here!
-    
     - title: Research Assistant in the PUCP Artificial Intelligence Group
       institution: Pontifical Catholic University of Peru (PUCP), Lima PE
       year: 2020-now
       description:
         - Research Assistant in the Artificial Intelligence Group (IA-PUCP) under supervision of Dr. Cesar Beltran
-    
-    - title: Teaching Assistant in the Certified Courses Serie of Artificial Intelligence Development
+    - title: Teaching Assistant in the Certified Courses Series of Artificial Intelligence Development
       institution: Pontifical Catholic University of Peru (PUCP), Lima PE
       year: 2019-2022
       description:
         - TA in Introduction to Python and Data Science
         - TA in Deep Learning on Time Series
-
     - title: Research Assistant in Information and Communications Technology Center
       institution: National University of Engineering, Lima PE
       year: 2018-2019
@@ -62,20 +59,17 @@
         - Achieving almost ~$22MM in contribution margin of period 2024-2025
         - Applying digital agent Gemini and Copilot in the business operation
         - I am always looking for great talent. So we are hiring! Just email your CV to me renatocastro@icasa.com.gt.
-    
     - title: Regional Advanced Analytics Leader
       institution: Millicom International (TIGO), Panama City PA
       year: 2022-2024
       description:
         - Leading the analytics and machine learning projects to improve business operations
         - Achieving 800K users in the business fintech product generating a revenue of ~$4.5MM and 50K loans monthly
-        
     - title: Data Scientist Sr.
       institution: AB InBev, Lima PE
       year: 2021-2022
       description:
         - Applying machine learning and data analytics to improve the main business operations and sales KPIs
-
     - title: Advanced Analytics Jr.
       institution: Pichincha Bank, Lima PE
       year: 2020-2021
@@ -87,11 +81,9 @@
 - title: Open Source Projects
   type: time_table
   contents:
-
     - title: <a href="https://github.com/renatocastro33/cv_social_distancing_on_jetson_nano">Computer Vision for Social Distancing on Nvidia Jetson Nano</a>
       year: 2020
       description: This repository contains a computer vision system for real-time social distancing monitoring using YOLOv3 object detection and Bird's Eye View (BEV) transformation. The system detects people, evaluates if they respect a predefined minimum distance, and provides visual feedback with bounding boxes and a BEV plot.
-
     - title: <a href="https://github.com/renatocastro33/People-Detection-and-Counting-In-Out-Line">People Detection and Counting In/Out Line</a>
       year: 2020
       description: A people detection using Yolo v3 and Deep Sort to count people who passes a certain line that delimits the entrance of a place. This program can count the people who get into the place or get out.
@@ -102,23 +94,19 @@
     - year: 2023
       items:
         - Community Competition Host Kaggle Award
-        
     - year: 2022
       items:
         - 1st Place Kaggle DATATHON ENTEL 2022 - Challenge 2
-
     - year: 2021
       items:
-        - 2st Place Laboratoria Hackhathon
+        - 2nd Place Laboratoria Hackhathon
         - 1st Place BNP Paribas LATAM Data Science Challenge 2021
         - 1st Place Bancolombia Datathon 2020
-    
     - year: 2020
       items:
-        - 2st Ab Inbev LATAM Brewing DataCup 2020
+        - 2nd Ab Inbev LATAM Brewing DataCup 2020
         - 1st Place Data Science Challenge LATAM BNP Paribas 2021
         - 1st Place Bancolombia Datathon 2020
-
     - year: 2019
       items:
         - 1st Place Data Talent Movistar 2019
@@ -130,9 +118,8 @@
     - title: Machine Learning & Deep Learning
       items:
         - Supervised Machine Learning Applications
-        - Explainability Machine Learning 
+        - Explainability Machine Learning
         - Computer Vision Applications
-
     - title: Generative AI
       items:
         - Reasoning Models
