@@ -509,18 +509,18 @@ ninja.data = [{
           window.open("mailto:%72%63%61%73%74%72%6F%63@%70%75%63%70.%65%64%75.%70%65", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://github.com/renatocastro33", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-orcid',
+        title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://orcid.org/https://orcid.org/0000-0001-7494-247X", "_blank");
         },
       },{
         id: 'social-scholar',
