@@ -440,16 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-paper-improving-asset-allocation-in-a-fast-moving-consumer-goods-b2b-company-an-interpretable-machine-learning-framework-for-commercial-cooler-assignment-based-on-multi-tier-growth-targets-presented-at-2nd-ieee-aixb-international-conference-on-artiificial-intelligence-x-business-2025-laguna-hills-california",
+          title: 'Paper “Improving Asset Allocation in a Fast Moving Consumer Goods B2B Company: An...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-paper-wholebodypose-a-unified-end-to-end-framework-for-sign-language-recognition-and-pose-based-training-data-presented-at-2025-18th-international-conference-on-machine-vision-icmv-2025-paris-france",
+          title: 'Paper “WholeBodyPose: A Unified End-to-End Framework for Sign Language Recognition and Pose-Based Training...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-paper-real-time-face-tracking-and-vector-databases-for-scalable-face-recognition-presented-at-2025-12th-iscmi-international-conference-on-soft-computing-amp-amp-machine-intelligence-rio-de-janeiro-brasil",
+          title: 'Paper “Real-Time Face Tracking and Vector Databases for Scalable Face Recognition” presented at...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
