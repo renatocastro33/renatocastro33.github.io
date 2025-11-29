@@ -2,96 +2,145 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Renato Castro
     - name: Date of Birth
-      value: 14th March 1879
+      value: 04th October 1998
     - name: Languages
-      value: English, German
+      value: English, Spanish
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: BS. Engineering
+      institution: National University of Engineering, Lima, Perú
+      year: 2020
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - GPA 4.0
+        - Dean's List in my faculty
+        - Excelence Scholarship through the peruvian government for my undergraduate studies
+        - 146th Anniversary University Recognition for Winning International Competitions in Data
 
-- title: Experience
+- title: Research & Teaching Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Researcher
+      institution: GreenBridge Labs, Boston USA
+      year: 2025-current
       description:
+        - Contributing to create an agent from scratch to help utilities companies in their Energy Transition.
+        - We are backed by MIT Sloan Sustainable Initiative.
+        - So happy to be here!
+    
+    - title: Research Assistant in the PUCP Artificial Intelligence Group
+      institution: Pontifical Catholic University of Peru (PUCP), Lima PE
+      year: 2020-current
+      description:
+        - Research Assistant in the Artificial Intelligence Group under supervision of Dr. César Beltrán
+    
+    - title: Teaching Assistant in the Certified Courses Serie of Artificial Intelligence Development
+      institution: Pontifical Catholic University of Peru (PUCP), Lima PE
+      year: 2019-2022
+      description:
+        - TA in Introduction to Python and Data Science
+        - TA in Deep Learning on Time Series
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Research Assistant in Information and Communications Technology Center
+      institution: National University of Engineering, Lima PE
+      year: 2018-2019
+      description:
+        - Research Assistant in the Big Data Lab under supervision of Mg. Yuri Nuñez
+
+- title: Industry Experience
+  type: time_table
+  contents:
+    - title: Regional Advanced Analytics Manager
+      institution: Castillo Hermanos, Guatemala GT
+      year: 2024-current
+      description:
+        - Leading the data engineering, machine learning and AI projects in the business unit of brewing and beverages in Cervecería Centroamericana.
+        - Developed Recommendation Systems, Gradient Boosting Models, Forecasting Models to improve the main KPIs of the business operations and sales.
+        - Achieving almost ~$22MM in contribution margin of period 2024-2025
+        - Applying digital agent Gemini and Copilot in the business operation
+        - I am always looking for great talent. So we are hiring! Just email your CV to me renatocastro@icasa.com.gt.
+    
+    - title: Regional Advanced Analytics Leader
+      institution: Millicom International (TIGO), Panama City PA
+      year: 2022-2024
+      description:
+        - Leading the analytics and machine learning projects to improve business operations
+        - Achieving 800K users in the business fintech product generating a revenue of ~$4.5MM and 50K loans monthly
+        
+    - title: Data Scientist Sr.
+      institution: AB InBev, Lima PE
+      year: 2021-2022
+      description:
+        - Applying machine learning and data analytics to improve the main business operations and sales KPIs
+
+    - title: Advanced Analytics Jr.
+      institution: Pichincha Bank, Lima PE
+      year: 2020-2021
+      description:
+        - Developed web application to improve the way of working of the wholesale banking.
+        - Developed a web application to help the company to manage the pipeline for COVID-19 assistance credits allocation "Reactiva Peru"  in clients (I loved this project!)
+        - Applying data analytics to achieve the targets
+
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+    - title: <a href="https://github.com/renatocastro33/cv_social_distancing_on_jetson_nano">Computer Vision for Social Distancing on Nvidia Jetson Nano</a>
+      year: 2020
+      description: This repository contains a computer vision system for real-time social distancing monitoring using YOLOv3 object detection and Bird's Eye View (BEV) transformation. The system detects people, evaluates if they respect a predefined minimum distance, and provides visual feedback with bounding boxes and a BEV plot.
+
+    - title: <a href="https://github.com/renatocastro33/People-Detection-and-Counting-In-Out-Line">People Detection and Counting In/Out Line</a>
+      year: 2020
+      description: A people detection using Yolo v3 and Deep Sort to count people who passes a certain line that delimits the entrance of a place. This program can count the people who get into the place or get out.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Community Competition Host Kaggle Award
+        
+    - year: 2022
       items:
-        - Max Planck Medal
+        - 1 ° Place Kaggle DATATHON ENTEL 2022 - Challenge 2
+
+    - year: 2021
+      items:
+        - 2° Place Laboratoria Hackhathon
+        - 1° Place BNP Paribas LATAM Data Science Challenge 2021
+        - 1° Place Bancolombia Datathon 2020
+    
+    - year: 2020
+      items:
+        - 2° Ab Inbev LATAM Brewing DataCup 2020
+        - 1° Place Data Science Challenge LATAM BNP Paribas 2021
+        - 1° Place Bancolombia Datathon 2020
+
+    - year: 2019
+      items:
+        - 1° Place Data Talent Movistar 2019
+        - 1° Place Pichincha Bank Datathon 2019
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Machine Learning & Deep Learning
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Supervised Machine Learning Applications
+        - Explainability Machine Learning 
+        - Computer Vision Applications
+
+    - title: Generative AI
       items:
-        - Description 1.
-        - Description 2.
+        - Reasoning Models
+        - Small Language Models
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Trekking, Music, Playing piano or guitar, Gym, Tae-Kwon-Do

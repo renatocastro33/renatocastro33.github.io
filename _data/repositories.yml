@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - renatocastro33
 
-repo_description_lines_max: 2
+repo_description_lines_max: 4
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - renatocastro33/Transfer-Learning-Face-Anti-Spoofing-Attack-Model
+  - renatocastro33/Car-Monitoring-System-in-Apartment-Garages-by-Small-Autonomous-Car-using-Deep-Learning
+  - renatocastro33/People-Detection-and-Counting-In-Out-Line
+  - renatocastro33/Anomaly-Spatial-Transform-Network
+  - renatocastro33/cv_social_distancing_on_jetson_nano
