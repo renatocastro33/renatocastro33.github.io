@@ -20,10 +20,9 @@
         - Excelence Scholarship through the peruvian government for my undergraduate studies
         - 146th Anniversary University Recognition for Winning International Competitions in Data
 
-- title: Research & Teaching Experience
+- title: Research and Teaching Experience
   type: time_table
   contents:
-
     - title: Researcher
       institution: GreenBridge Labs, Boston USA
       year: 2025-now
@@ -36,7 +35,7 @@
       institution: Pontifical Catholic University of Peru (PUCP), Lima PE
       year: 2020-now
       description:
-        - Research Assistant in the Artificial Intelligence Group under supervision of Dr. Cesar Beltran
+        - Research Assistant in the Artificial Intelligence Group (IA-PUCP) under supervision of Dr. Cesar Beltran
     
     - title: Teaching Assistant in the Certified Courses Serie of Artificial Intelligence Development
       institution: Pontifical Catholic University of Peru (PUCP), Lima PE
@@ -84,7 +83,6 @@
         - Developed web application to improve the way of working of the wholesale banking.
         - Developed a web application to help the company to manage the pipeline for COVID-19 assistance credits allocation "Reactiva Peru"  in clients (I loved this project!)
         - Applying data analytics to achieve the targets
-
 
 - title: Open Source Projects
   type: time_table

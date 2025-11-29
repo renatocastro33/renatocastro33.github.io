@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Lima, Perú</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -27,6 +27,6 @@ latest_posts:
 
 Hi, I’m Renato Castro — an engineer and research assistant currently leading regional analytics and AI applications for a major FMCG corporation in Latin America. My work focuses on building machine learning systems for decision-making at scale, and building agents.
 
-I’m also deeply involved in applied AI research, with experience from the MIT Sloan Sustainable Initiative Greenbridge Lab, where I worked on real-time simulation, NLP for public policy, and optimization of energy. My research interests lie at the intersection of AI systems, small reasoning models, computer vision, causal-free machine learning models for operational strategy, fairness in algorithms, and computational social engineering.
+I’m also deeply involved in applied AI research, with experience from the MIT Sloan Sustainable Initiative Greenbridge Lab and Artificial Intelligence Group (IA-PUCP), where I worked on real-time simulation, NLP for public policy, and optimization of energy. My research interests lie at the intersection of AI systems, small reasoning models, computer vision, causal-free machine learning models for operational strategy, fairness in algorithms, and computational social engineering.
 
-I have completed the MIT MicroMasters in Statistics & Data Science, conducted multiple independent research projects, and am preparing several papers for conferences such as ICMV, ISCMII, AIXB and Workshop Poster Presentations at ICML and NeurIPS. I enjoy designing full-stack analytic solutions—from data engineering (BigQuery, Snowflake, Spark) to ML modeling, deployment, and strategic impact.
+I have completed the MIT MicroMasters in Statistics & Data Science, conducted multiple independent research projects, and am preparing several papers for conferences such as ICMV, ISCMI, AIXB and Workshop Poster Presentations at ICML and NeurIPS. I enjoy designing full-stack analytic solutions—from data engineering (BigQuery, Snowflake, Spark) to ML modeling, deployment, and strategic impact.
