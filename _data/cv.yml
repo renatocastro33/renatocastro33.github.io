@@ -4,7 +4,7 @@
     - name: Full Name
       value: Renato Castro
     - name: Date of Birth
-      value: 04th October 1998
+      value: 4th October 1998
     - name: Languages
       value: English, Spanish
 
@@ -26,7 +26,7 @@
 
     - title: Researcher
       institution: GreenBridge Labs, Boston USA
-      year: 2025-current
+      year: 2025-now
       description:
         - Contributing to create an agent from scratch to help utilities companies in their Energy Transition.
         - We are backed by MIT Sloan Sustainable Initiative.
@@ -34,7 +34,7 @@
     
     - title: Research Assistant in the PUCP Artificial Intelligence Group
       institution: Pontifical Catholic University of Peru (PUCP), Lima PE
-      year: 2020-current
+      year: 2020-now
       description:
         - Research Assistant in the Artificial Intelligence Group under supervision of Dr. Cesar Beltran
     
@@ -56,9 +56,9 @@
   contents:
     - title: Regional Advanced Analytics Manager
       institution: Castillo Hermanos, Guatemala GT
-      year: 2024-current
+      year: 2024-now
       description:
-        - Leading the data engineering, machine learning and AI projects in the business unit of brewing and beverages in Cervecería Centroamericana.
+        - Leading the data engineering, machine learning and AI projects in the business unit of brewing and beverages in Cerveceria Centroamericana.
         - Developed Recommendation Systems, Gradient Boosting Models, Forecasting Models to improve the main KPIs of the business operations and sales.
         - Achieving almost ~$22MM in contribution margin of period 2024-2025
         - Applying digital agent Gemini and Copilot in the business operation
