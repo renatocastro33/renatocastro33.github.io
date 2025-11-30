@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I’m Renato Castro — an engineer and research assistant currently leading regional analytics and AI applications for a major FMCG corporation in Latin America. My work focuses on building machine learning systems for decision-making at scale, and building agents.
+Hi, I’m Renato Castro Cruz — an engineer and research assistant currently leading regional analytics and AI applications for a major FMCG corporation in Latin America. My work focuses on building machine learning systems for decision-making at scale, and building agents.
 
 I’m also deeply involved in applied AI research, with experience from the MIT Sloan Sustainable Initiative Greenbridge Lab and Artificial Intelligence Group (IA-PUCP), where I worked on real-time simulation, NLP for public policy, and optimization of energy. My research interests lie at the intersection of AI systems, small reasoning models, computer vision, causal-free machine learning models for operational strategy, fairness in algorithms, and computational social engineering.
 
